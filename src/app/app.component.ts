@@ -8,7 +8,7 @@ import {RouterLink, RouterOutlet} from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'Велком ту тест';
+  title = 'Велком Дмитрий Жеребный!!!!';
   num = 0;
 
   increment() {
